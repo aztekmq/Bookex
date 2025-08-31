@@ -1,0 +1,1 @@
+# Continuity Prompt\n\nScan chapters for inconsistencies and produce a checklist.

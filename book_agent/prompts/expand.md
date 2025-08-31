@@ -1,0 +1,1 @@
+# Expand Prompt\n\nWrite a single chapter in Markdown given an outline and story bible.

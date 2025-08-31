@@ -1,0 +1,1 @@
+# Outline Prompt\n\nWrite a detailed book outline with Parts, Chapters, and bullet points per chapter.

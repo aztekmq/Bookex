@@ -1,0 +1,1 @@
+# Style Guide\n\n- Narrative voice: direct, clear\n- Avoid fluff; prefer concrete examples\n- Keep terminology consistent\n
